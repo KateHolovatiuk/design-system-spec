@@ -27,7 +27,6 @@ For per-component contracts (semantics, props, rules), use **[COMPONENT_CATALOG.
 | Variable Name | Values | When to use | When to avoid |
 |---|---|---|---|
 | `Typography/FontFamily` | `Geometria` — Figma / design library | All new Figma-aligned components and design-system work | Do not substitute with system fonts (Inter, Roboto, Arial) |
-| `theme.typography` | `Inter` — React app (`theme.jsx`) | All existing MUI-themed components across the app | Do not use Inter for new Figma-critical surfaces |
 
 ### Display & Heading Scale
 
